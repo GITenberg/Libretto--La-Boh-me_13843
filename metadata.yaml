@@ -1,0 +1,49 @@
+_repo: Libretto--La-Boh-me_13843
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Pinkerton, Percy
+    aliases:
+    - Pinkerton, Percy E.
+    - Pinkerton, P. (Percy)
+    gutenberg_agent_id: '2956'
+    url: http://www.gutenberg.org/2009/agents/2956
+    wikipedia: http://en.wikipedia.org/wiki/Percy_E._Pinkerton
+  - agent_name: Grist, William
+    alias: Grist, W. (William)
+    gutenberg_agent_id: '31125'
+    url: http://www.gutenberg.org/2009/agents/31125
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Giacosa, Giuseppe
+    alias: Giacosa, G. (Giuseppe)
+    birthdate: 1847
+    deathdate: 1906
+    gutenberg_agent_id: '5243'
+    url: http://www.gutenberg.org/2009/agents/5243
+    wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Giacosa
+  - agent_name: Illica, Luigi
+    alias: Illica, L. (Luigi)
+    birthdate: 1857
+    deathdate: 1919
+    gutenberg_agent_id: '5244'
+    url: http://www.gutenberg.org/2009/agents/5244
+    wikipedia: http://en.wikipedia.org/wiki/Luigi_Illica
+description: English translation only
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2004-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Operas -- Librettos'
+title: 'Libretto: La Bohème'
+url: http://www.gutenberg.org/ebooks/13843
