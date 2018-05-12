@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5244
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Illica
 description: English translation only
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13843#Libretto--La-Boh-me
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2004-10-24'
 gutenberg_type: Text
